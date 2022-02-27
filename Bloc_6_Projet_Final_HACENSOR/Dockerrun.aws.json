@@ -1,0 +1,15 @@
+{
+	"AWSEBDockerrunVersion":"1",
+	"Image": {
+		"Name": "mala948/hacensor",
+		"update": "true"
+	}, 
+
+	"Ports" : [
+		{
+			"ContainerPort":8501
+		}
+
+	]
+		
+}
