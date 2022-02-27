@@ -1,0 +1,36 @@
+,ville,latitude,longitude,temp_max_jour1,ciel_jour1,temp_max_jour2,ciel_jour2,temp_max_jour3,ciel_jour3,temp_max_jour4,ciel_jour4,temp_max_jour5,ciel_jour5,temp_max_jour6,ciel_jour6,temp_max_jour7,ciel_jour7,temp_max_jour8,ciel_jour8
+0,Uzes,44.0121279,4.4196718,12.06,nuageux,11.64,nuageux,11.89,partiellement nuageux,10.29,pluie modérée,11.03,légère pluie,12.98,ciel dégagé,16.45,partiellement nuageux,16.54,peu nuageux
+1,Mont Saint Michel,48.6359541,-1.511459954959514,9.64,partiellement nuageux,8.55,nuageux,10.62,pluie modérée,9.79,pluie modérée,10.88,légère pluie,14.15,légère pluie,11.57,légère pluie,13.74,légère pluie
+2,Chateau du Haut Koenigsbourg,48.249489800000006,7.34429620253195,4.69,légère pluie,3.27,peu nuageux,7.99,peu nuageux,5.55,légère pluie,6.58,légère pluie,7.88,nuageux,7.86,légère pluie,10.24,couvert
+3,Ariege,42.9455368,1.4065544156065486,4.07,légère pluie,6.15,couvert,9.73,peu nuageux,2.9,pluie et neige,0.99,pluie et neige,5.23,nuageux,6.86,nuageux,10.44,peu nuageux
+4,Aigues Mortes,43.5658225,4.1912837,14.12,nuageux,11.45,légère pluie,12.04,légère pluie,12.12,légère pluie,12.78,légère pluie,14.06,ciel dégagé,17.89,partiellement nuageux,14.54,ciel dégagé
+5,St Malo,48.649518,-2.0260409,9.13,partiellement nuageux,8.72,nuageux,10.56,forte pluie,9.63,pluie modérée,10.81,nuageux,13.78,légère pluie,11.26,légère pluie,13.24,légère pluie
+6,Bayeux,49.2764624,-0.7024738,9.09,peu nuageux,8.31,nuageux,10.15,pluie modérée,10.3,pluie modérée,9.97,partiellement nuageux,14.26,légère pluie,11.08,nuageux,12.49,légère pluie
+7,Le Havre,49.4938975,0.1079732,7.9,ciel dégagé,8.37,nuageux,10.3,légère pluie,10.47,pluie modérée,9.78,légère pluie,12.56,légère pluie,9.64,légère pluie,11.31,légère pluie
+8,Rouen,49.4404591,1.0939658,8.62,peu nuageux,8.23,nuageux,10.58,légère pluie,10.7,légère pluie,10.03,peu nuageux,13.87,légère pluie,10.83,légère pluie,12.96,légère pluie
+9,Paris,48.8588897,2.3200410217200766,8.38,peu nuageux,8.32,couvert,11.57,couvert,10.81,légère pluie,10.19,ciel dégagé,12.16,légère pluie,12.12,légère pluie,12.3,légère pluie
+10,Amiens,49.8941708,2.2956951,7.65,ciel dégagé,7.32,nuageux,10.69,légère pluie,10.71,légère pluie,9.4,peu nuageux,13.07,légère pluie,11.07,légère pluie,12.64,légère pluie
+11,Lille,50.6365654,3.0635282,8.14,partiellement nuageux,7.0,nuageux,10.58,légère pluie,10.64,légère pluie,9.39,peu nuageux,13.15,couvert,10.49,partiellement nuageux,11.84,légère pluie
+12,Strasbourg,48.584614,7.7507127,7.28,légère pluie,7.47,ciel dégagé,9.76,peu nuageux,9.14,légère pluie,9.15,légère pluie,11.23,nuageux,11.34,légère pluie,13.18,couvert
+13,Colmar,48.0777517,7.3579641,7.81,pluie modérée,6.23,ciel dégagé,10.88,ciel dégagé,8.06,légère pluie,9.63,légère pluie,10.46,nuageux,11.89,légère pluie,13.46,couvert
+14,Eguisheim,48.0447968,7.3079618,7.79,pluie modérée,6.31,ciel dégagé,10.92,ciel dégagé,7.94,légère pluie,9.67,légère pluie,10.34,nuageux,11.88,légère pluie,13.47,couvert
+15,Besancon,47.2380222,6.0243622,7.23,pluie modérée,6.51,nuageux,10.88,ciel dégagé,8.76,pluie modérée,8.09,légère pluie,10.12,nuageux,9.15,légère pluie,12.28,nuageux
+16,Dijon,47.3215806,5.0414701,7.3,pluie modérée,4.87,couvert,9.95,partiellement nuageux,8.81,légère pluie,7.7,partiellement nuageux,10.54,nuageux,10.81,légère pluie,13.41,nuageux
+17,Annecy,45.8992348,6.1288847,7.92,pluie modérée,8.48,partiellement nuageux,10.09,peu nuageux,10.17,pluie et neige,6.83,pluie et neige,8.5,peu nuageux,10.41,couvert,13.1,partiellement nuageux
+18,Grenoble,45.1875602,5.7357819,8.23,pluie modérée,11.23,nuageux,12.91,ciel dégagé,12.13,pluie et neige,5.81,pluie et neige,8.53,nuageux,10.93,couvert,13.97,partiellement nuageux
+19,Lyon,45.7578137,4.8320114,8.38,légère pluie,8.52,couvert,12.51,peu nuageux,9.57,pluie modérée,8.97,légère pluie,11.82,partiellement nuageux,11.25,couvert,14.82,partiellement nuageux
+20,Gorges du Verdon,43.7496562,6.3285616,11.65,peu nuageux,10.56,ciel dégagé,7.98,ciel dégagé,3.75,pluie et neige,4.22,légère pluie,10.89,ciel dégagé,13.06,partiellement nuageux,13.65,ciel dégagé
+21,Bormes les Mimosas,43.1572172,6.329253867921363,16.53,peu nuageux,12.54,légère pluie,11.62,légère pluie,10.79,pluie modérée,9.29,pluie modérée,14.55,légère pluie,14.04,nuageux,14.37,partiellement nuageux
+22,Cassis,43.2140359,5.5396318,14.67,partiellement nuageux,14.19,légère pluie,12.52,légère pluie,12.18,pluie modérée,10.11,pluie modérée,14.8,légère pluie,15.61,partiellement nuageux,14.18,ciel dégagé
+23,Marseille,43.2961743,5.3699525,13.73,nuageux,14.04,ciel dégagé,12.58,légère pluie,12.3,pluie modérée,9.87,pluie modérée,14.3,légère pluie,15.56,partiellement nuageux,13.9,ciel dégagé
+24,Aix en Provence,43.5298424,5.4474738,13.06,nuageux,14.0,ciel dégagé,12.76,ciel dégagé,8.81,pluie modérée,8.26,pluie modérée,13.58,ciel dégagé,14.97,partiellement nuageux,14.81,ciel dégagé
+25,Avignon,43.9492493,4.8059012,11.71,partiellement nuageux,12.5,peu nuageux,13.77,ciel dégagé,10.13,pluie modérée,10.82,légère pluie,13.25,ciel dégagé,15.31,nuageux,16.34,peu nuageux
+26,Nimes,43.8374249,4.3600687,13.25,nuageux,12.38,nuageux,12.36,nuageux,11.36,pluie modérée,12.13,légère pluie,14.09,ciel dégagé,17.62,partiellement nuageux,17.18,peu nuageux
+27,Saintes Maries de la mer,43.4522771,4.4287172,13.55,partiellement nuageux,11.79,nuageux,12.19,légère pluie,12.36,légère pluie,12.17,légère pluie,13.53,ciel dégagé,16.82,peu nuageux,14.48,ciel dégagé
+28,Collioure,42.52505,3.0831554,14.85,nuageux,10.96,légère pluie,15.73,nuageux,11.8,légère pluie,10.94,couvert,14.65,ciel dégagé,16.74,peu nuageux,16.53,ciel dégagé
+29,Carcassonne,43.2130358,2.3491069,12.81,nuageux,10.55,couvert,12.69,nuageux,8.19,pluie modérée,7.73,légère pluie,12.72,peu nuageux,13.7,couvert,17.78,ciel dégagé
+30,Toulouse,43.6044622,1.4442469,11.69,légère pluie,10.79,couvert,13.85,partiellement nuageux,9.27,pluie modérée,9.02,légère pluie,12.68,nuageux,12.64,couvert,16.62,partiellement nuageux
+31,Montauban,44.0175835,1.3549991,12.27,légère pluie,10.29,couvert,13.94,nuageux,10.11,légère pluie,9.01,légère pluie,12.78,partiellement nuageux,12.95,couvert,16.25,partiellement nuageux
+32,Biarritz,43.471143749999996,-1.552726590666314,10.84,pluie modérée,12.19,couvert,16.1,légère pluie,11.21,pluie modérée,10.65,pluie modérée,12.33,légère pluie,12.74,légère pluie,14.56,nuageux
+33,Bayonne,43.4933379,-1.475099,11.42,pluie modérée,12.84,couvert,17.09,légère pluie,11.46,pluie modérée,11.07,pluie modérée,12.99,couvert,13.21,couvert,15.31,nuageux
+34,La Rochelle,46.1591126,-1.1520434,9.86,ciel dégagé,8.0,nuageux,11.72,légère pluie,10.91,légère pluie,9.64,peu nuageux,10.61,légère pluie,12.02,légère pluie,11.84,nuageux
