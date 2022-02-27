@@ -1,0 +1,137 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+  <title>Mode d'emploi Wine Quality</title>
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+
+
+<style>
+
+  .header {
+    height: 70px;
+    padding: 5px 130px 50px;
+    background: #e1e1e1;
+}
+    
+
+  body {
+    margin: 15em;
+    margin-top: 0em;
+    font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+}
+
+  div {
+    background-color: rgba(78, 230, 205, 0.932);
+    padding-left : 5em;
+    padding-right : 5em;
+    padding-bottom : 5em;
+}
+  
+
+  footer{
+    font-size: 12px;
+    font-family: Verdana, Geneva, sans-serif;
+    color: #333;
+    background-color: #85fa85;
+    line-height: 12px;
+    vertical-align: middle;
+    padding: 10px 20px;
+}
+
+
+  footer.image_droite{
+    position:fixed;
+    bottom:0;
+    right:0;
+    margin:0;
+    float: right;
+    
+}
+
+  a {
+    color: #55baec;
+}
+
+  p.italic { font-style: italic; }
+
+  .font1{
+    font: italic small-caps bold 25px/1 cursive;
+}
+
+
+</style>
+
+
+</head>
+<body>
+  <div class="header">
+        <h1 style="color:rgba(202, 30, 30, 0.925);">
+          <p class="italic">Description de l'API Youssef sur le Vin</p>
+        </h1>
+  </div>
+  <div>
+        <h2>
+          <p class="font1">Comment utiliser l'API et a quoi sert t-elle ?</p>
+        </h1>
+          <img src="/static/Vin.png" width="700" height="400">
+          <p> Cette API est un test de déploiement d'un modèle de machine learning dont l'objet est <strong> l'estimation de la qualité d'un produit</strong> en l'occurrence le vin ici et ce en fonction de différents facteurs. 
+            <p>Pour cela il faut entrer les valeurs correspondantes aux variables explicatives suivantes :</p>
+            <ul>
+              <li>fixed acidity</li>
+              <li>volatile acidity</li>
+              <li>citric acid</li>
+              <li>residual sugar</li>
+              <li>chlorides</li>
+              <li>free sulfur dioxide</li>
+              <li>total sulfur dioxide</li>
+              <li>density</li>
+              <li>pH</li>
+              <li>sulphates</li>
+              <li>alcohol</li>
+            </ul>
+  
+          <p> Une fois toutes ces variables numériques entrées, l'API lancera une prediction sur les données choisies et vous obtiendrez l'estimation de la qualité du Vin d'une note entre 3 à 9 sur la base d'échantillons physico-chimiques.  <br> </p> <br>
+
+    <h2>
+      <p class="italic"> Mode d'emploi: </p>
+    </h2>
+      <p>
+      <strong>1. Remplacer les variables explicatives ci-dessous par des valeurs numériques</strong> <br/> <br/>
+
+        Mon_input = ['fixed acidity', 'volatile acidity', 'citric acid','residual sugar', 'chlorides', 'free sulfur dioxide','total sulfur dioxide', 'density', 'pH', 'sulphates', 'alcohol'] <br/> <br/>
+
+      <strong>exemple :</strong>  Mon_input = [7.0, 0.27, 0.36, 20.7, 0.045, 45.0, 170.0, 1.001, 3.0, 0.45, 8.8]<br/><br/> 
+
+      <strong>2. Lancez la requête API ci-dessous: </strong><br/> <br/>
+
+        response = requests.post("https://my-app-youssef-vins.herokuapp.com/quality", json={"quality": Mon_input}) <br/> <br/>
+        
+      <strong>3. Affichez le résultat (par exemple): </strong> <br/> <br/>
+        
+        print(response.json()) <br/> <br/>
+
+      <strong>4.résultat final: </strong><br/> <br/>
+
+        {'Niveau de qualité estimé' : 6.0}
+    </p>
+  </div>
+  
+  <footer>
+    
+    <p class="inline">
+      Copyright @2022 | Designed With by <a href="#">Your Company Youssef</a>
+    </p>
+
+    
+    <p class="image_droite">
+      <img src="/static/jedha.png"/>
+    </p>
+    
+
+  </footer>
+
+
+</body>
+
+</html>
